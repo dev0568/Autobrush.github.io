@@ -1,0 +1,138 @@
+   img {
+       max-width: 100%;
+   }
+   /* top bar Start */
+   
+   .topbar {
+       text-align: center;
+       background-color: #217c82;
+       color: white;
+       font-size: 13px;
+       padding: 10px;
+   }
+   
+   .p {
+       color: #20c997;
+   }
+   /* header Start */
+   
+   .colur h3 {
+       color: #3ec6b8;
+   }
+   
+   .bcb {
+       background-color: #217c82;
+   }
+   
+   .btn-success {
+       color: #fff;
+       background-color: #217c82;
+       border-color: #28a745;
+   }
+   
+   .flex {
+       display: flex;
+   }
+   /* flex one Start */
+   
+   .bgc {
+       background-color: #e3e2e7;
+   }
+   
+   .pd65 {
+       padding-bottom: 65px;
+       padding-top: 65px;
+   }
+   
+   .fonts {
+       font-size: 45px;
+   }
+   
+   .wdimg {
+       width: 540px;
+   }
+   
+   .btnbg {
+       background-color: #67d000;
+   }
+   
+   .gdn {
+       color: gold;
+   }
+   
+   .cblack {
+       color: black
+   }
+   /* what is Autobrush Start */
+   
+   .h2 {
+       text-align: center;
+       padding: 40px
+   }
+   
+   .tcsb {
+       color: skyblue
+   }
+   
+   .df {
+       display: flex;
+   }
+   
+   .fs {
+       font-size: 12px;
+   }
+   /* How does It Work Start */
+   
+   .bc {
+       background-color: #217c82;
+   }
+   
+   .w-100 {
+       width: 100%;
+   }
+   
+   .How h3,
+   p {
+       color: white;
+   }
+   
+   .steps h5 {
+       color: #217c82;
+   }
+   
+   .steps p {
+       color: grey;
+   }
+   /* why we use Autobrush start */
+   
+   * ul {
+       list-style-type: none;
+   }
+   
+   .why {
+       color: #217c82;
+   }
+   /* Listen to what Start */
+   
+   .bcc {
+       background-color: #3ec6b8
+   }
+   
+   .listen p {
+       color: darkolivegreen;
+   }
+   /* Meet the World's Start */
+   
+   .bg {
+       background-color: #e3e2e7
+   }
+   
+   .meet h3,
+   p {
+       color: #3ec6b8;
+   }
+   /* Footer Start */
+   
+   .color h2 {
+       color: #3ec6b8;
+   }
